@@ -11,20 +11,20 @@
 ## 共通ポリシー
 
 - 日本語版  
-  https://chris3612-a11y.github.io/privacy-policy/index-ja/
+  https://github.com/chris3612-a11y/privacy-policy/blob/main/index-ja.md
 
 - English Version  
-  https://chris3612-a11y.github.io/privacy-policy/index-en/
+  https://github.com/chris3612-a11y/privacy-policy/blob/main/index-en.md
 
 ---
 
 ### DailyReport
 
 - 日本語版  
-  https://chris3612-a11y.github.io/privacy-policy/DailyReport/index-ja/
+  https://github.com/chris3612-a11y/privacy-policy/blob/main/DailyReport/index-ja.md
 
 - English Version  
-  https://chris3612-a11y.github.io/privacy-policy/DailyReport/index-en/
+  https://github.com/chris3612-a11y/privacy-policy/blob/main/DailyReport/index-en.md
 
 ---
 
